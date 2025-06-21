@@ -5,5 +5,7 @@ Desarrollador apasionado por la tecnología, el aprendizaje continuo y el desarr
 
 
 ## 📊 Estadísticas de GitHub
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cristhianleonardo&theme=tokyonight)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristhianleonardo&layout=compact&theme=tokyonight)
 
